@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana",
+    "apellido": "Perez",
+    "email": "ana@x.com",
+    "telefono": "0962114176",
+    "ciudad": "Guayaquil"
+  }
+]

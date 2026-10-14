@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ecuaciones",
+    "codigo": "9",
+    "creditos": 4,
+    "cupos": 21
+  },
+  {
+    "id": 2,
+    "nombre": "Estadistica",
+    "codigo": "10",
+    "creditos": 2,
+    "cupos": 12
+  }
+]
